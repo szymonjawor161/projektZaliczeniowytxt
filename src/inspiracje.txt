@@ -1,0 +1,21 @@
+INSPIRACJE I SKOJARZENIA:
+- Minimalizm (clean UI)
+- Gamifikacja (nagrody za ukończone zadania)
+- Focus (tryb skupienia, pomodoro)
+- Kolory pastelowe (nie męczą wzroku w nocy)
+
+KRÓTKA LISTA ELEMENTÓW PROJEKTU:
+1. Ekran startowy z podsumowaniem dnia
+2. Moduł "Szybka notatka"
+3. Integracja z Kalendarzem Google
+4. Wykres postępów (statystyki tygodniowe)
+
+WSTĘPNE DANE WEJŚCIOWE:
+- Lista przedmiotów (np. Analiza, Fizyka, Programowanie)
+- Typy zadań (Egzamin, Kolokwium, Projekt, Praca domowa)
+- Priorytety (Wysoki, Średni, Niski)
+
+ŹRÓDŁA POMYSŁU:
+- Własna potrzeba uporządkowania sesji
+- Obserwacja znajomych, którzy spóźniają się z oddawaniem projektów
+- Aplikacja "Todoist" (jako punkt odniesienia, ale zbyt ogólna)
